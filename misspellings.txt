@@ -1,7 +1,6 @@
 swell:swall 
 her:har
 ate:ata
-three:tree
 pizza:piza
 for:4
 diet:deeet
