@@ -1,5 +1,5 @@
 #
-#Author: Sahil Desai
+#Author: Shah Sarthak
 #Description: This program takes two inputs from the user. The first is name of a text file,
 #and second input will be the mode that the program should operate in.
 #There will be two modes: suggest or replace mode.
